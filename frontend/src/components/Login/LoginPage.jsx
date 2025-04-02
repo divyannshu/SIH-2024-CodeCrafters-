@@ -49,7 +49,7 @@ function LoginPage() {
                   setUsername(e.target.value);
                 }}
               />
-              <label className={styles.brutalistLabel}>NAME</label>
+              <label className={styles.brutalistLabel}>USERNAME</label>
             </div>
             <div className={styles.brutalistContainer}>
               <input
